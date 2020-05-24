@@ -31,8 +31,9 @@ Created by Kirill Eremenko, SuperDataScience Team
 --- 
 
 ## Completion Certificate
-<!-- https://www.udemy.com/certificate/UC-11c4fbc7-3ef8-47a8-b7da-54907e26e1c0/ -->
+https://www.udemy.com/certificate/UC-0d899e7a-24fe-4c74-9dff-c597fdb39126/
 
-<!-- ![1000](https://udemy-certificate.s3.amazonaws.com/image/UC-11c4fbc7-3ef8-47a8-b7da-54907e26e1c0.jpg?v=1588578552000) -->
+
+![1000](https://udemy-certificate.s3.amazonaws.com/image/UC-0d899e7a-24fe-4c74-9dff-c597fdb39126.jpg)
 
 --- 
